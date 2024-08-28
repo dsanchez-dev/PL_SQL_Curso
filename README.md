@@ -1,0 +1,2 @@
+-Se presenta en este repositorio los comandos vistos en el curso de PL SQL en ORACLE DATABASE con Docker en Mac Apple Silicon.
+-En el cual se llevo acabo la configuracion previa en docker para poder desplegar ORACLE DATABASE con el cliente SQL Developer.
