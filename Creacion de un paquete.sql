@@ -1,6 +1,6 @@
 CREATE OR REPLACE PACKAGE PKG1
 IS
-    V1 NUMBER:=10;
+    V1 NUMBER;
     V2 Varchar2(100);
 END;
 /
