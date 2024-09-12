@@ -1,6 +1,7 @@
+--Creacion de un paquete
+SET SERVEROUTPUT ON
 CREATE OR REPLACE PACKAGE PKG1
 IS
-    V1 NUMBER;
+    V1 NUMBER:=10;
     V2 Varchar2(100);
 END;
-/
